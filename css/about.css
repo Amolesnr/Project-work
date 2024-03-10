@@ -118,6 +118,16 @@ body {
   color: black;
   }
 
+  .talk{
+    display: flex;
+    justify-content: center; 
+  }
+
+  .song{
+    display: flex;
+    justify-content: center;
+  }
+
 
   @media screen and (max-width:760px) {
     .navbar {
